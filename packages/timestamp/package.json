@@ -18,5 +18,8 @@
     "dist",
     "!**/*.tsbuildinfo"
   ],
-  "dependencies": {}
+  "dependencies": {},
+  "peerDependencies": {
+    "drizzle-orm": "^0.43.1"
+  }
 }
